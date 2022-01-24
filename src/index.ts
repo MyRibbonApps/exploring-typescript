@@ -71,7 +71,7 @@ const userData: user = {
 
     const user1: userInterface = {
         id: 1,
-        name: 'Anton',
+        name: 'Anton Franzen',
         age: 20 // Optional we do not need to have the age here..
     }
 
