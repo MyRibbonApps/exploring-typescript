@@ -42,8 +42,6 @@ const userData: user = {
     let state: any = false;
     let setState = <boolean>state // this takes whateverr state is and we can only set this to false/true
 
-    setState = true;
-
     console.log(setState);
 
     // Functions
