@@ -27,7 +27,6 @@ console.log(userData);
 // Assertion
 let state = false;
 let setState = state; // this takes whateverr state is and we can only set this to false/true
-setState = true;
 console.log(setState);
 // Functions
 function testFunc(x) {
@@ -43,7 +42,7 @@ function other(message) {
 }
 const user1 = {
     id: 1,
-    name: 'Anton',
+    name: 'Anton Franzen',
     age: 20 // Optional we do not need to have the age here..
 };
 // user1.id = 10 does no work as its read only
